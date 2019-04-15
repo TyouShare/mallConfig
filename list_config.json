@@ -4,12 +4,11 @@
         "descr": "怡丽丝尔眼霜，眼部保养太重要了❗️25岁以上仙女自觉入眼霜吧，没舍得入pola抗皱的，入这款！",
         "detail": "资生堂怡丽丝尔发售新款局部祛皱ELIXIR enriched wrinkle cream S ，能够有效改善眼部、唇周皱纹，获得日本相关政府部门认可。这是继POLA 之后，第二款获得日本官方认证的抗皱护肤品！可直接作精华眼霜！价格比pola美丽太多",
         "price": "人民币 526元",
-        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_01_thumb.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_01_hd.jpg",
         "imageList":[
           "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_01_hd.jpg",
           "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_02_hd.jpg",
-          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_03_hd.jpg",
-          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_04_hd.jpg"
+          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_03_hd.jpg"
         ]
       },
       {
@@ -17,7 +16,7 @@
         "descr": "日本妹纸夏日必备的脱毛膏",
         "detail": "贴心的涂抹头设计，头部是类似海绵的，直接涂上去不会弄脏手，也有点像粉扑，能够紧贴柔滑肌肤，确保温和而有效地去除每一根体毛，还可以辅助着较好地推开膏体，特别是脱完后，毛发生长速度也非常缓慢～",
         "price": "人民币 240元",
-        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_002_01_thumb.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_002_01_hd.jpg",
         "imageList":[
         	"https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_002_01_hd.jpg"
         ]
@@ -26,7 +25,7 @@
         "name": "粉色无比滴",
         "descr": "粉色无比滴（0个月宝宝就可以用）粉色温和快速止痒  消除肿痛  连痱子湿疹都有镇静作用哦  不含激素",
         "price": "人民币 65元",
-        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_003_01_thumb.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_003_01_hd.jpg",
         "imageList":[
         	"https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_003_01_hd.jpg",
         	"https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_003_01_hd.jpg",
@@ -38,7 +37,7 @@
         "descr": "吃吃喝喝、谁还没个便秘的时候，家中必备！",
         "detail": "吃吃喝喝、谁还没个便秘的时候，家中必备！一盒400片 皇汉堂便秘小粉丸。超级管用！无缘无故长痘痘宝宝们，一定要清肠。睡前2-3粒，自然排便，清除肠胃垃圾，排毒美容养颜，对长期便秘的人效果好，成分安全无副作用，有效增加肠胃蠕动，帮助健康排便。",
         "price": "人民币 85元",
-        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_004_01_thumb.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_004_01_hd.jpg",
         "imageList":[
           "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_004_01_hd.jpg"
         ]
