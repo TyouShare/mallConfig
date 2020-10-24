@@ -4,21 +4,29 @@
         "descr": "儿童肺部发育不成熟，鼻毛少，离地面近需要更好的防护",
         "detail": "进贤格兰斯长医疗器械厂生产，符合国家药监局标准.",
         "price": "快联系我吧",
-        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_01_hd.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1320.JPG",
         "imageList":[
-          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_01_hd.jpg",
-          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_02_hd.jpg",
-          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_001_03_hd.jpg"
+          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1322.JPG",
+          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1320.JPG",
+          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1317.JPG",
+          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1316.JPG",
+          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1315.JPG",
+          "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1321.JPG"
         ]
       },
       {
         "name": "医用外科口罩",
         "descr": "医用灭菌 三层防护 舒适透气",
         "detail": "",
-        "price": "人民币 240元",
-        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_002_01_hd.jpg",
+        "price": "快联系我吧",
+        "imageUrl": "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1311.JPG",
         "imageList":[
-        	"https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/image_002_01_hd.jpg"
+        	"https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1311.JPG",
+            "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1310.JPG",
+            "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1308.JPG",
+            "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1309.JPG",
+            "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1313.JPG",
+            "https://raw.githubusercontent.com/TyouShare/mallConfig/master/resource/IMG_1314.JPG"
         ]
       }
 ]
